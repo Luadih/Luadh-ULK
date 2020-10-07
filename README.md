@@ -4,7 +4,7 @@ This is a Lightkit meant for the 3D Program [Cinema4D](https://www.maxon.net/en-
 
 If you want to see examples of it, you can check the videos [here](https://www.youtube.com/c/loAd_Variety/videos) and look for LCLK / o3 Series in the description.
 
-Since this LightKit is for the community and by the community, all the credits will be documented here: [Excel](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing)
+Since this LightKit is for the community and by the community, all the credits will be documented [here](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
 
 **If you have any problem or any request, just create an [issue](https://github.com/Luadih/Luadh-ULK/issues/new) for it. Remember to Tag it properly.**
 
