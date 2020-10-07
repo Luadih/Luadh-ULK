@@ -1,6 +1,6 @@
 # Luadh's UltimateLightKit
 
-### [Portuguese](https://github.com/Luadih/Luadh-ULK/blob/master/README_PT.md) | [Español](https://github.com/Luadih/Luadh-ULK/blob/master/README_ES.md) | English
+### English | [Portuguese](https://github.com/Luadih/Luadh-ULK/blob/master/README_PT.md) | [Español](https://github.com/Luadih/Luadh-ULK/blob/master/README_ES.md)
 
 This is a Lightkit meant for the 3D Program [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) and for usage on 3D Text Intros.
 
