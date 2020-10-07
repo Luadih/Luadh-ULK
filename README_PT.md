@@ -4,9 +4,9 @@
 
 Esta é uma Lightkit destinado ao programa 3D [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) e para seu uso em Intros 3D de Texto.
 
-Se você quiser ver exemplos desta, pode olhar seu uso [aquí](https://www.youtube.com/c/loAd_Variety/videos) e conferir se  **LCLK** ou **o3 Series** está na descrição.
+Se você quiser ver exemplos desta, pode olhar seu uso [aqui](https://www.youtube.com/c/loAd_Variety/videos) e conferir se  **LCLK** ou **o3 Series** está na descrição.
 
-Já que este Lightkit é pra comunidade e pela comunidade, todos os creditos serão documentados [aquí](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
+Já que este Lightkit é pra comunidade e pela comunidade, todos os créditos serão documentados [aqui](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
 
 **Se você chega a ter algum problema, cria um [problema (issue)](https://github.com/Luadih/Luadh-ULK/issues/new) pra explicar. Lembre-se de etiquetá-lo corretamente.**
 
