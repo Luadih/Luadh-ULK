@@ -1,5 +1,7 @@
 # Luadh's UltimateLightKit
 
+### [English](https://github.com/Luadih/Luadh-ULK/blob/master/README.md) | Portuguese | [Español](https://github.com/Luadih/Luadh-ULK/blob/master/README_ES.md)
+
 Esta é uma Lightkit destinado ao programa 3D [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) e para seu uso em Intros 3D de Texto.
 
 Se você quiser ver exemplos desta, pode olhar seu uso [aquí](https://www.youtube.com/c/loAd_Variety/videos) e conferir se  **LCLK** ou **o3 Series** está na descrição.
