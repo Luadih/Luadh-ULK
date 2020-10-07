@@ -8,7 +8,7 @@ Since this LightKit is for the community and by the community, all the credits w
 
 **If you have any problem or any request, just create an [issue](https://github.com/Luadih/Luadh-ULK/issues/new) for it. Remember to Tag it properly.**
 
-## Releases:
+## Download:
 
 ### https://github.com/Luadih/Luadh-ULK/releases
 
