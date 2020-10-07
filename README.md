@@ -8,4 +8,25 @@ If you want to see examples of it, you can check the videos [here](https://www.y
 
 ## Releases:
 
-https://github.com/Luadih/Luadh-ULK/releases
+### https://github.com/Luadih/Luadh-ULK/releases
+
+#
+
+## Supported Versions:
+
+- Cinema 4D R16
+- Cinema 4D R19
+- Cinema 4D R20
+
+## Not tested but should work:
+
+- Cinema 4D R15
+- Cinema 4D R17
+- Cinema 4D R18
+- Cinema 4D R21
+- Cinema 4D R22
+
+## Won't work as it should:
+
+- Cinema 4D R13
+- Cinema 4D R14
