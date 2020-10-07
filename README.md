@@ -20,11 +20,11 @@ If you want to see examples of it, you can check the videos [here](https://www.y
 
 ## Not tested but should work:
 
-- Cinema 4D R15
-- Cinema 4D R17
-- Cinema 4D R18
-- Cinema 4D R21
-- Cinema 4D R22
+> - Cinema 4D R15
+> - Cinema 4D R17
+> - Cinema 4D R18
+> - Cinema 4D R21
+> - Cinema 4D R22
 
 ## Won't work as it should:
 
