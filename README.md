@@ -8,6 +8,8 @@ If you want to see examples of it, you can check the videos [here](https://www.y
 
 Since this LightKit is for the community and by the community, all the credits will be documented [here](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
 
+More detailed information will be found in this [document](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing).
+
 **If you have any problem or any request, just create an [issue](https://github.com/Luadih/Luadh-ULK/issues/new) for it. Remember to Label it properly.**
 
 ## Download:
