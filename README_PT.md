@@ -8,7 +8,7 @@ Se você quiser ver exemplos desta, pode olhar seu uso [aqui](https://www.youtub
 
 Já que este Lightkit é pra comunidade e pela comunidade, todos os créditos serão documentados [aqui](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
 
-Informaçao mais detalhada será encontrada neste [documento](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing).
+Informaçao mais detalhada será encontrada neste [documento](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing). **(Pelo agora ê solamente em inglês)**
 
 **Se você chega a ter algum problema, cria um [problema (issue)](https://github.com/Luadih/Luadh-ULK/issues/new) pra explicar. Lembre-se de etiquetá-lo corretamente.**
 
