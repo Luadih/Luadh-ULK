@@ -23,13 +23,13 @@ More detailed information will be found in this [document](https://docs.google.c
 - Cinema 4D R16
 - Cinema 4D R19
 - Cinema 4D R20
+- Cinema 4D R21
 
 ## Not tested but should work:
 
 - Cinema 4D R15
 - Cinema 4D R17
 - Cinema 4D R18
-- Cinema 4D R21
 - Cinema 4D R22
 
 ## Won't work and won't be ported:
