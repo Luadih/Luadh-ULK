@@ -23,13 +23,13 @@ Informaçao mais detalhada será encontrada neste [documento](https://docs.googl
 - Cinema 4D R16
 - Cinema 4D R19
 - Cinema 4D R20
+- Cinema 4D R21
 
 ## Não testadas, mas deve funcionar:
 
 - Cinema 4D R15
 - Cinema 4D R17
 - Cinema 4D R18
-- Cinema 4D R21
 - Cinema 4D R22
 
 ## Não funcionará nestas e não será portado pra elas:
