@@ -4,8 +4,6 @@ Here you will see all the update and/or change notes, this is a full list which 
 
 If someones wants to translate this to Spanish or English feel free to contact me, so i can instruct you and review the translation.
 
-## Changes (most recent to oldest)
-
 ## 10 / 12 / 2020 (b2020.10.12)
 
 #### Release Notes:
