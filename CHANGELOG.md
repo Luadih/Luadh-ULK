@@ -37,7 +37,7 @@ If someones wants to translate this to Spanish or English feel free to contact m
 - BR Lights were removed.
 - No Materials.
 
-#### General Notes:
+##### General Notes:
 
 - First **preview** version released **(p2020.06.09)**.
 - Project created and started in GitHub
