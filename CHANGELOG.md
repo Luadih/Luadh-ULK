@@ -6,7 +6,7 @@ If someones wants to translate this to Spanish or English feel free to contact m
 
 ## Changes (most recent to oldest)
 
-### 10 / 12 / 2020 (b2020.10.12)
+## 10 / 12 / 2020 (b2020.10.12)
 
 #### Release Notes:
 
@@ -27,7 +27,7 @@ If someones wants to translate this to Spanish or English feel free to contact m
 - Wiki was setup as a Google Doc.
 - Github Readme translated to Portuguese and Spanish.
 
-### 10 / 07 / 2020 (p2020.06.09)
+## 10 / 07 / 2020 (p2020.06.09)
 
 #### Release Notes:
 
@@ -40,4 +40,4 @@ If someones wants to translate this to Spanish or English feel free to contact m
 ##### General Notes:
 
 - First **preview** version released **(p2020.06.09)**.
-- Project created and started in GitHub
+- Project created and started in GitHub.
