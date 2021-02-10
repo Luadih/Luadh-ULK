@@ -10,7 +10,7 @@ Since this LightKit is for the community and by the community, all the credits w
 
 More detailed information will be found in this [document](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing).
 
-**If you have any problem or any request, just create an [issue](https://github.com/Luadih/Luadh-ULK/issues/new) for it. Remember to Label it properly.**
+**If you have any problem or any request, just create an [issue](https://github.com/Luadih/Luadh-ULK/issues/new) for it.**
 
 ## Download:
 
