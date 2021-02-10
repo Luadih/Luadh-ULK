@@ -10,7 +10,7 @@ Ya que este Lightkit es para la comunidad y por la comunidad, todos los creditos
 
 Hay informacion mas detallada en este [documento](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing). **(Por ahora, solamente en Ingles)**
 
-**Si tienes algún problema o alguna idea, crea un ["problema" (issue)](https://github.com/Luadih/Luadh-ULK/issues/new) para ello. Recuerda etiquetarlo de manera correcta.**
+**Si tienes algún problema o alguna idea, crea un ["problema" (issue)](https://github.com/Luadih/Luadh-ULK/issues/new) para ello.**
 
 ## Descarga:
 
