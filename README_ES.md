@@ -6,7 +6,7 @@ Este es un Lightkit pensado para su uso en [Cinema4D](https://www.maxon.net/en-u
 
 Si quieres ver ejemplos en practica, puedes ver los videos [aquí](https://www.youtube.com/c/LUADH/videos) y ver que tengan **LCLK** u **o3 Series** en la descripcion.
 
-Ya que este Lightkit es para la comunidad y por la comunidad, todos los creditos serán documentados [aquí](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
+Ya que este Lightkit es para la comunidad y por la comunidad, todos los creditos serán documentados [aquí](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaE09cf2xnyOAca4uLXVFPUU-P1rSW2XUKSbnEpwk2W-SwlOZ6pKHbNpcV1aW9rYyMCBO2-297CW9h/pubhtml?gid=0&single=true).
 
 Hay informacion mas detallada en este [documento](https://docs.google.com/document/d/1XJtCZ82iyey3agQ3-Oulmd6G4atuKC4-_pV607EnyS4/edit?usp=sharing). **(Por ahora, solamente en Ingles)**
 
