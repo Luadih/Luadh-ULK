@@ -4,7 +4,7 @@
 
 Este es un Lightkit pensado para su uso en [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) y para su uso en Intros de Texto en 3D.
 
-Si quieres ver ejemplos en practica, puedes ver los videos [aquí](https://www.youtube.com/c/loAd_Variety/videos) y ver que tengan **LCLK** u **o3 Series** en la descripcion.
+Si quieres ver ejemplos en practica, puedes ver los videos [aquí](https://www.youtube.com/c/LUADH/videos) y ver que tengan **LCLK** u **o3 Series** en la descripcion.
 
 Ya que este Lightkit es para la comunidad y por la comunidad, todos los creditos serán documentados [aquí](https://docs.google.com/spreadsheets/d/151VKYKdASJQL2UbSq6cknIqSAWjQ5IFCyj8JVZdeaLQ/edit?usp=sharing).
 
