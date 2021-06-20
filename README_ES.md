@@ -14,7 +14,7 @@ Hay informacion mas detallada en este [documento](https://docs.google.com/docume
 
 ## Descarga:
 
-### https://github.com/Luadih/Luadh-ULK/releases
+### https://github.com/Luadih/CommunityTextLight/releases
 
 #
 
