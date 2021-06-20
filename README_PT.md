@@ -1,4 +1,4 @@
-# Luadh's UltimateLightKit
+# CommunityTextLight
 
 ### [English](https://github.com/Luadih/Luadh-ULK/blob/master/README.md) | Portuguese | [Español](https://github.com/Luadih/Luadh-ULK/blob/master/README_ES.md)
 
