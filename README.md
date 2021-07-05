@@ -2,7 +2,7 @@
 
 ### English | [Portuguese](https://github.com/Luadih/Luadh-ULK/blob/master/README_PT.md) | [Español](https://github.com/Luadih/Luadh-ULK/blob/master/README_ES.md)
 
-### **STATUS = STILL UPDATING**
+### STATUS = STILL UPDATING
 
 This is a Lightkit meant for the 3D Program [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) and for usage on 3D Text Intros.
 
