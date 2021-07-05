@@ -2,6 +2,8 @@
 
 ### [English](https://github.com/Luadih/Luadh-ULK/blob/master/README.md) | [Portuguese](https://github.com/Luadih/Luadh-ULK/blob/master/README_PT.md) | Español
 
+### ESTADO = TODAVIA EN PROGRESO
+
 Este es un Lightkit pensado para su uso en [Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) y para su uso en Intros de Texto en 3D.
 
 Si quieres ver ejemplos en practica, puedes ver los videos [aquí](https://www.youtube.com/c/LUADH/videos) y ver que tengan **LCLK** u **o3 Series** en la descripcion.
